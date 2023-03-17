@@ -3,7 +3,7 @@
 ## To Start A New Django Development Server:
 1. Open an empty project file in Visual Studio Code
 2. First, create python virtual environment by following the steps shown on this website: https://sourabhbajaj.com/mac-setup/Python/virtualenv.html
-3. Activate python virtual environment: source venv/bin/activate
+3. Activate python virtual environment: **source venv/bin/activate**
 4. Install Django: **pip install Django**
 5. Install Django Rest Framework: **pip install djangorestframework**
 6. To create a project in Django: **django-admin startproject FYPRecordingApp**
